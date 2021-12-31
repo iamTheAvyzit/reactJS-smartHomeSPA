@@ -1,0 +1,127 @@
+.about-container {
+    margin-top: 100px;
+    max-height: 2400px;
+    overflow: hidden;
+}
+
+.about-container-heading {
+    color: black;
+    font-size: 85px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 470px;
+}
+
+.blue-rect1,
+.blue-rect2,
+.blue-rect3 {
+    border-radius: 12px;
+    width: 500px;
+    height: 300px;
+    background-color: #1E5AFA;
+}
+
+.about-group1,
+.about-group2,
+.about-group3 {
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+}
+
+.about-card-heading {
+    font-weight: 600;
+    font-size: 46px;
+    max-height: 100px;
+}
+
+.about-card-desc {
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 35px;
+    color: #575757;
+}
+
+.learn {
+    border: 1px solid #000F37;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #000F37;
+    margin-top: 35px;
+    width: 185px;
+    height: 58px;
+    cursor: pointer;
+}
+
+.active {
+    border: 1px solid #000F37;
+    background-color: #000F37;
+    color: #FAFAFA;
+}
+
+.card1-img {
+    position: relative;
+    top: -25rem;
+    left: -3rem;
+}
+
+.blue-rect1 {
+    position: relative;
+    top: 350px;
+    left: 7rem;
+}
+
+.about-group1 {
+    position: relative;
+    top: -75rem;
+    left: 45rem;
+}
+
+.card2-img {
+    position: relative;
+    top: -95rem;
+    left: 27rem;
+}
+
+.blue-rect2 {
+    position: relative;
+    top: -48rem;
+    left: 45rem;
+}
+
+.about-group2 {
+    position: relative;
+    top: -145rem;
+    left: 9rem;
+}
+
+.card3-img {
+    position: relative;
+    top: -167rem;
+    left: -3rem;
+}
+
+.blue-rect3 {
+    position: relative;
+    top: -120rem;
+    left: 7rem;
+}
+
+.about-group3 {
+    position: relative;
+    top: -215rem;
+    left: 45rem;
+}
+
+.vector334 {
+    position: absolute;
+    top: 880px;
+    left: 640px;
+    z-index: -1;
+}
