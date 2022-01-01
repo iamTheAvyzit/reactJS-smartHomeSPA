@@ -1,0 +1,35 @@
+.test-container
+.header {
+
+    font-weight: bold;
+    font-size: 85px;
+    color: #313131;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: -3px;
+}
+
+.test-container {
+    position: relative;
+}
+
+.desc {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #575757;
+    margin-top: 40px;
+}
+
+.test-cards {
+    position: relative;
+    margin-top: 80px;
+    left: 7rem;
+    max-width: 1100px;
+}
+
+.slider {
+    position: relative;
+    top: 7rem;
+    left: -29.5rem;
+}
