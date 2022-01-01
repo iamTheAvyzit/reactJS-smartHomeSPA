@@ -1,4 +1,5 @@
-![smartHome Home Automation Services](https://user-images.githubusercontent.com/94052679/147848552-c84b7c7a-cec5-4faf-b046-84b15562e453.png)
+![smartHome Automation Services](https://user-images.githubusercontent.com/94052679/147848667-11f6b6bf-4e8f-419c-bfcb-51acaeccc5d1.png)
+
 # reactJS-smartHomeSPA
 This project is a reactJS based simple SPA for a client named "smartHome" which deals with home automation and stuff. This is just an initial build, will need more modifications. The design was build in figma and then converted to react.
 
