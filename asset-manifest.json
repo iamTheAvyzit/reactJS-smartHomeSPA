@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactJS-smartHomeSPA/static/css/main.79e66c42.chunk.css",
+    "main.js": "/reactJS-smartHomeSPA/static/js/main.c2dbe65e.chunk.js",
+    "main.js.map": "/reactJS-smartHomeSPA/static/js/main.c2dbe65e.chunk.js.map",
+    "runtime-main.js": "/reactJS-smartHomeSPA/static/js/runtime-main.79f86123.js",
+    "runtime-main.js.map": "/reactJS-smartHomeSPA/static/js/runtime-main.79f86123.js.map",
+    "static/js/2.2904e404.chunk.js": "/reactJS-smartHomeSPA/static/js/2.2904e404.chunk.js",
+    "static/js/2.2904e404.chunk.js.map": "/reactJS-smartHomeSPA/static/js/2.2904e404.chunk.js.map",
+    "index.html": "/reactJS-smartHomeSPA/index.html",
+    "static/css/main.79e66c42.chunk.css.map": "/reactJS-smartHomeSPA/static/css/main.79e66c42.chunk.css.map",
+    "static/js/2.2904e404.chunk.js.LICENSE.txt": "/reactJS-smartHomeSPA/static/js/2.2904e404.chunk.js.LICENSE.txt",
+    "static/media/AboutCard1.0de535df.png": "/reactJS-smartHomeSPA/static/media/AboutCard1.0de535df.png",
+    "static/media/AboutCard2.c02b9ebd.png": "/reactJS-smartHomeSPA/static/media/AboutCard2.c02b9ebd.png",
+    "static/media/AboutCard3.1cce2473.png": "/reactJS-smartHomeSPA/static/media/AboutCard3.1cce2473.png",
+    "static/media/Apple_download.bf879409.png": "/reactJS-smartHomeSPA/static/media/Apple_download.bf879409.png",
+    "static/media/Hero_Image.a53d3863.png": "/reactJS-smartHomeSPA/static/media/Hero_Image.a53d3863.png",
+    "static/media/Logos.7770cc5f.png": "/reactJS-smartHomeSPA/static/media/Logos.7770cc5f.png",
+    "static/media/Vector334.2c1179b2.png": "/reactJS-smartHomeSPA/static/media/Vector334.2c1179b2.png",
+    "static/media/faqs.d4962ba8.png": "/reactJS-smartHomeSPA/static/media/faqs.d4962ba8.png",
+    "static/media/testimonials_cards.2410a060.png": "/reactJS-smartHomeSPA/static/media/testimonials_cards.2410a060.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79f86123.js",
+    "static/js/2.2904e404.chunk.js",
+    "static/css/main.79e66c42.chunk.css",
+    "static/js/main.c2dbe65e.chunk.js"
+  ]
+}
