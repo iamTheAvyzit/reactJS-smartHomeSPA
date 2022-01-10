@@ -1,0 +1,53 @@
+.cta-container {
+    background-color: #1E5AFA;
+    color: #FDFDFF;
+    width: 1050px;
+    border-radius: 10px;
+    position: relative;
+    top: 350px;
+    left: 150px;
+}
+
+.cta-header {
+    width: 800px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    position: relative;
+    top: 3rem;
+    left: 5rem;
+}
+
+.cta-desc {
+    max-width: 500px;
+    font-size: 18px;
+    line-height: 32px;
+    position: relative;
+    top: 4rem;
+    left: 5.2rem;
+}
+
+.subscribe {
+    width: 220px;
+    height: 70px;
+    background: transparent;
+    border: 1px solid #FAFAFA;
+    border-radius: 7px;
+
+    color: #FAFAFA;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    cursor: pointer;
+
+    position: relative;
+    top: -6rem;
+    left: 50rem;
+}
+
+.union {
+    position: relative;
+    top: 25px;
+    left: 30rem
+}

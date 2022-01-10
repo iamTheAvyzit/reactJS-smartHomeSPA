@@ -1,0 +1,33 @@
+.client-container
+.header {
+    font-weight: bold;
+    font-size: 85px;
+    color: #313131;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: -3px;
+}
+
+.client-container {
+    max-height: 600px;
+    overflow: hidden;
+}
+
+.desc {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #575757;
+    margin-top: 40px;
+}
+
+.client-logo {
+    position: relative;
+    left: 55px;
+}
+
+.client-decor {
+    position: relative;
+    top: -46rem;
+    left: 73.42rem;
+}
